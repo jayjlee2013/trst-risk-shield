@@ -32,9 +32,6 @@ export default function Header() {
             <Link href="/calculator" className="text-gray-300 hover:text-gold-400 text-sm font-medium transition-colors">
               {ko ? '비용 계산' : 'Calculator'}
             </Link>
-            <Link href="/kyc" className="text-gray-300 hover:text-gold-400 text-sm font-medium transition-colors">
-              KYC / OFAC
-            </Link>
             <Link href="/about" className="text-gray-300 hover:text-gold-400 text-sm font-medium transition-colors">
               {t.nav.about}
             </Link>
@@ -78,7 +75,6 @@ export default function Header() {
           <div className="md:hidden pb-4 border-t border-navy-700 mt-2 pt-4 space-y-3">
             <Link href="/services" className="block text-gray-300 hover:text-gold-400 text-sm font-medium" onClick={() => setMenuOpen(false)}>{t.nav.services}</Link>
             <Link href="/calculator" className="block text-gray-300 hover:text-gold-400 text-sm font-medium" onClick={() => setMenuOpen(false)}>{ko ? '비용 계산' : 'Calculator'}</Link>
-            <Link href="/kyc" className="block text-gray-300 hover:text-gold-400 text-sm font-medium" onClick={() => setMenuOpen(false)}>KYC / OFAC</Link>
             <Link href="/about" className="block text-gray-300 hover:text-gold-400 text-sm font-medium" onClick={() => setMenuOpen(false)}>{t.nav.about}</Link>
             <Link href="/contact" className="block text-gray-300 hover:text-gold-400 text-sm font-medium" onClick={() => setMenuOpen(false)}>{t.nav.contact}</Link>
             <div className="flex items-center gap-3 pt-2">
