@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trstriskshield.com/sitemap.xml
