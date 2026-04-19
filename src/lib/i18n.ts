@@ -89,8 +89,8 @@ export const translations = {
       ],
     },
     cta: {
-      title: 'Section 122 만료 전에 미국 수출을 준비하세요',
-      subtitle: '미국 법인 없이도 TRST TRADING LLC가 IOR로 대행합니다.\n지금 바로 무료 LDP 시뮬레이션으로 비용을 확인하세요.',
+      title: '미국 법인 없이도 미국 수출이 가능합니다',
+      subtitle: 'TRST TRADING LLC가 수입자(IOR)로 등록하여 통관부터 납세까지 책임집니다.\n지금 바로 무료로 LDP 비용을 계산해보세요.',
       btn: '무료 LDP 계산하기',
     },
     footer: {
@@ -239,8 +239,8 @@ export const translations = {
       ],
     },
     cta: {
-      title: 'Start Your US Export Before Section 122 Expires',
-      subtitle: "No US entity needed. TRST TRADING LLC serves as your IOR.\nCalculate your free LDP cost estimate now.",
+      title: 'No US Entity? We Are Your IOR.',
+      subtitle: "TRST TRADING LLC registers as the importer of record — handling customs, duties, and compliance end-to-end.\nCalculate your free LDP cost now.",
       btn: 'Calculate Free LDP Cost',
     },
     footer: {
