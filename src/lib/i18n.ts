@@ -50,11 +50,6 @@ export const translations = {
           title: 'LDP 견적',
           desc: '제품가·운임·관세·수수료를 포함한 정확한 LDP 비용을 사전 산출하여 바이어 협상을 지원합니다.',
         },
-        {
-          icon: '🔍',
-          title: 'KYC / OFAC',
-          desc: '수출 전 OFAC SDN 리스트 스크리닝으로 제재 위반 리스크를 사전 차단합니다.',
-        },
       ],
     },
     process: {
@@ -204,11 +199,6 @@ export const translations = {
           icon: '📄',
           title: 'LDP Quotation',
           desc: 'Accurate pre-shipment LDP cost breakdown including duties, MPF, HMF, and service fees for buyer negotiations.',
-        },
-        {
-          icon: '🔍',
-          title: 'KYC / OFAC',
-          desc: 'Pre-shipment OFAC SDN list screening to eliminate sanctions risk before your goods ever leave the factory.',
         },
       ],
     },
