@@ -123,7 +123,7 @@ export const translations = {
     },
     about: {
       title: 'TRST Risk Shield 소개',
-      subtitle: 'Section 122 전환기, 아시아 수출 기업의 미국 IOR 파트너',
+      subtitle: '미국 법인 없는 아시아 수출 기업의 IOR 파트너',
       story: {
         title: '우리의 이야기',
         body: `미국 행정부의 관세 인상(IEEPA → 위헌 판결 후 Section 122 전환) 이후, 미국 바이어들이 수출자에게 DDP/LDP 전환을 요구하는 사례가 급증하고 있습니다.\n\n미국 법인이 없는 한국·아시아 중소기업들은 IOR을 직접 수행할 수 없어 미국 수출 기회를 잃고 있습니다.\n\nTRST Risk Shield는 물류 컨설팅과 실제 통관 현장 경험을 바탕으로, 아시아 수출 기업이 미국 시장에 안전하게 진입할 수 있도록 IOR·LDP·FDA 서비스를 제공합니다.`,
@@ -273,7 +273,7 @@ export const translations = {
     },
     about: {
       title: 'About TRST Risk Shield',
-      subtitle: 'Your US IOR Partner in the Section 122 Era',
+      subtitle: 'The IOR Partner for Asian Exporters Without a US Entity',
       story: {
         title: 'Our Story',
         body: `Following US tariff escalation (IEEPA → ruled unconstitutional, now replaced by Section 122), US buyers are increasingly demanding DDP/LDP terms, shifting import responsibility to Asian exporters.\n\nSMEs in Korea, China, Taiwan, and Vietnam without a US legal entity cannot act as Importer of Record — and risk losing US market access entirely.\n\nTRST Risk Shield was built on real logistics consulting and customs experience to help Asian exporters safely enter the US market through IOR, LDP, and FDA services.`,
