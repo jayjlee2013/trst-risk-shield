@@ -6,7 +6,6 @@ import { useLang } from '@/lib/lang-context'
 export default function HomeClient() {
   const { t, lang } = useLang()
   const ko = lang === 'ko'
-  const daysLeft = Math.max(0, Math.floor((new Date('2026-07-24').getTime() - Date.now()) / 86400000))
 
   return (
     <>
@@ -35,19 +34,6 @@ export default function HomeClient() {
         </div>
       </section>
 
-      {/* Urgency Banner */}
-      <section className="bg-red-700 py-3 px-4">
-        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-center gap-3 text-center">
-          <span className="text-white text-sm font-medium">
-            {ko
-              ? `⏰ Section 122 임시 부과금(10%) — 2026년 7월 24일 만료까지 ${daysLeft}일`
-              : `⏰ Section 122 surcharge (10%) expires Jul 24, 2026 — ${daysLeft} days left`}
-          </span>
-          <Link href="/calculator" className="bg-white text-red-700 font-bold text-xs px-3 py-1 rounded-full hover:bg-red-50 transition-colors whitespace-nowrap">
-            {ko ? '지금 LDP 계산하기 →' : 'Calculate LDP Now →'}
-          </Link>
-        </div>
-      </section>
 
       {/* Stats */}
       <section className="bg-navy-800 py-10 px-4">
