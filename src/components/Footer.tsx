@@ -43,7 +43,6 @@ export default function Footer() {
           {/* Contact */}
           <div>
             <h4 className="text-white font-semibold mb-3 text-sm">{t.footer.company}</h4>
-            <p className="text-sm text-gray-500">TRST TRADING LLC</p>
             <p className="text-sm text-gray-500 mt-1">United States</p>
           </div>
         </div>

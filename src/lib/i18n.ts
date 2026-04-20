@@ -11,7 +11,7 @@ export const translations = {
     hero: {
       badge: 'IOR 대행 전문',
       title: '미국 법인 없어도\n미국으로 수출할 수 있습니다',
-      subtitle: '미국에 법인이 없으면 CBP 통관 자체가 불가능합니다.\nTRST TRADING LLC가 수입자(IOR)로 등록하여 한국·중국·대만·베트남 수출 기업의 미국 수출을 책임집니다.',
+      subtitle: '미국에 법인이 없으면 CBP 통관 자체가 불가능합니다.\nTRST Risk Shield가 수입자(IOR)로 등록하여 한국·중국·대만·베트남 수출 기업의 미국 수출을 책임집니다.',
       cta1: 'LDP 비용 계산하기 (무료)',
       cta2: 'IOR 서비스 알아보기',
     },
@@ -28,7 +28,7 @@ export const translations = {
         {
           icon: '🛡️',
           title: 'IOR 대행',
-          desc: '미국 법인 없이도 TRST TRADING LLC가 미국 수입자(IOR)로 등록하여 CBP 통관을 책임집니다.',
+          desc: '미국 법인 없이도 TRST Risk Shield가 미국 수입자(IOR)로 등록하여 CBP 통관을 책임집니다.',
         },
         {
           icon: '📋',
@@ -74,7 +74,7 @@ export const translations = {
         {
           icon: '🏛️',
           title: '미국 법인 보유',
-          desc: 'TRST TRADING LLC는 EIN·CBP Importer 이력을 보유한 실제 미국 법인입니다.',
+          desc: 'TRST Risk Shield는 EIN·CBP Importer 이력을 보유한 실제 미국 법인입니다.',
         },
         {
           icon: '⚕️',
@@ -90,11 +90,11 @@ export const translations = {
     },
     cta: {
       title: '미국 법인 없이도 미국 수출이 가능합니다',
-      subtitle: 'TRST TRADING LLC가 수입자(IOR)로 등록하여 통관부터 납세까지 책임집니다.\n지금 바로 무료로 LDP 비용을 계산해보세요.',
+      subtitle: 'TRST Risk Shield가 수입자(IOR)로 등록하여 통관부터 납세까지 책임집니다.\n지금 바로 무료로 LDP 비용을 계산해보세요.',
       btn: '무료 LDP 계산하기',
     },
     footer: {
-      company: 'TRST TRADING LLC',
+      company: 'TRST Risk Shield',
       tagline: 'LDP · IOR · FDA 미국 수입 전문 서비스',
       links: ['서비스', '소개', '문의'],
       copy: '© 2026 TRST TRADING LLC. All rights reserved.',
@@ -161,7 +161,7 @@ export const translations = {
     hero: {
       badge: 'IOR Service Specialist',
       title: 'No US Entity?\nWe Are Your IOR.',
-      subtitle: 'Without a US legal entity, CBP customs clearance is impossible.\nTRST TRADING LLC acts as your Importer of Record so your exports can reach the US market.',
+      subtitle: 'Without a US legal entity, CBP customs clearance is impossible.\nTRST Risk Shield acts as your Importer of Record so your exports can reach the US market.',
       cta1: 'Calculate LDP Cost (Free)',
       cta2: 'IOR Services',
     },
@@ -178,7 +178,7 @@ export const translations = {
         {
           icon: '🛡️',
           title: 'IOR Service',
-          desc: 'No US entity needed. TRST TRADING LLC acts as your Importer of Record and handles all CBP customs declarations.',
+          desc: 'No US entity needed. TRST Risk Shield acts as your Importer of Record and handles all CBP customs declarations.',
         },
         {
           icon: '📋',
@@ -224,7 +224,7 @@ export const translations = {
         {
           icon: '🏛️',
           title: 'Real US Entity',
-          desc: 'TRST TRADING LLC holds an EIN and has an established CBP Importer registration history.',
+          desc: 'TRST Risk Shield holds an EIN and has an established CBP Importer registration history.',
         },
         {
           icon: '⚕️',
@@ -240,11 +240,11 @@ export const translations = {
     },
     cta: {
       title: 'No US Entity? We Are Your IOR.',
-      subtitle: "TRST TRADING LLC registers as the importer of record — handling customs, duties, and compliance end-to-end.\nCalculate your free LDP cost now.",
+      subtitle: "TRST Risk Shield registers as the importer of record — handling customs, duties, and compliance end-to-end.\nCalculate your free LDP cost now.",
       btn: 'Calculate Free LDP Cost',
     },
     footer: {
-      company: 'TRST TRADING LLC',
+      company: 'TRST Risk Shield',
       tagline: 'LDP · IOR · FDA US Import Specialist',
       links: ['Services', 'About', 'Contact'],
       copy: '© 2026 TRST TRADING LLC. All rights reserved.',

@@ -10,7 +10,7 @@ export default function ServicesClient() {
     {
       icon: '🛡️',
       title: 'IOR (Importer of Record) 대행',
-      summary: 'TRST TRADING LLC가 미국 공식 수입자로 CBP에 등록됩니다.',
+      summary: 'TRST Risk Shield가 미국 공식 수입자로 CBP에 등록됩니다.',
       points: [
         'EIN 및 CBP Importer 이력 보유 미국 법인',
         'Form 3461 통관 신고 (파트너 관세사 협력)',
@@ -63,7 +63,7 @@ export default function ServicesClient() {
     {
       icon: '🛡️',
       title: 'IOR (Importer of Record) Service',
-      summary: 'TRST TRADING LLC registers as the official US importer with CBP on your behalf.',
+      summary: 'TRST Risk Shield registers as the official US importer with CBP on your behalf.',
       points: [
         'US entity with EIN and established CBP Importer history',
         'CBP Form 3461 customs declaration (with licensed broker)',
